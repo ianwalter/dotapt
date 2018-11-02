@@ -1,5 +1,5 @@
 curl
-node
+vim
 xclip
 zsh
-zsh-antigen
+snapd
