@@ -1,2 +1,4 @@
 node --classic --channel 11/stable
 docker
+kubectl --classic
+helm --classic
