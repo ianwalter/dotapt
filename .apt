@@ -3,3 +3,5 @@ vim
 xclip
 zsh
 snapd
+make
+g++
