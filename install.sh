@@ -26,3 +26,8 @@ while read p; do
     sudo snap install $p
   fi
 done < ~/.snapfile
+
+# Add user to docker group.
+if [[ $(cat /etc/group | grep docker) == '' ]]; then
+  sudo usermod -a -G docker $USER
+fi
