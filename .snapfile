@@ -1,5 +1,3 @@
-kubectl --classic
-helm --classic
 node --classic --channel 11/stable
 go --classic
 goreleaser --classic
