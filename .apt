@@ -12,3 +12,4 @@ libnss3
 libxss1
 libasound2
 docker-ce
+tmux
