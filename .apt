@@ -13,3 +13,5 @@ libxss1
 libasound2
 docker-ce
 tmux
+ripgrep
+

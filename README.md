@@ -1,7 +1,9 @@
-# dotbrew
-> Ian's [Homebrew](https://brew.sh/) configuration (part of
-  [dotfiles](https://github.com/ianwalter/dotfiles)).
+# dotapt
+> Ian's Aptitude configuration (part of [dotfiles][dotfilesUrl]).
 
 &nbsp;
 
 Created by [Ian Walter](http://iankwalter.com).
+
+[dotfilesUrl]: https://github.com/ianwalter/dotfiles
+
