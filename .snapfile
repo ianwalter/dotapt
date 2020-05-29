@@ -1,3 +1,0 @@
-node --classic --channel 12/stable
-go --classic
-goreleaser --classic

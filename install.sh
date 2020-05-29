@@ -15,14 +15,4 @@ while read p; do
   fi
 done < ~/.apt
 
-# Copy .snapfile file to home directory.
-cp ./.snapfile ~/.snapfile
-
-# Install Snapcraft packages from .snap file.
-packages=$(snap list)
-while read p; do
-  installed=$(echo "$packages" | grep -ce "^$p\$")
-  if [ $installed == "0" ]; then
-    sudo snap install $p
-  fi
-done < ~/.snapfile
+printf "\n✅ Successfully installed Aptitude packages\n\n"

@@ -1,8 +1,5 @@
 vim-gtk3
 xclip
-zsh
-snapd
-make
 g++
 xvfb
 libgtk2.0-0
@@ -11,8 +8,5 @@ libgconf-2-4
 libnss3
 libxss1
 libasound2
-tmux
-ripgrep
-fzf
 build-essential
 gcc
