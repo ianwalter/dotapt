@@ -10,3 +10,5 @@ libxss1
 libasound2
 build-essential
 gcc
+fail2ban
+ufw
