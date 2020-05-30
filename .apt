@@ -12,3 +12,4 @@ build-essential
 gcc
 fail2ban
 ufw
+man-db
